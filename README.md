@@ -1,9 +1,9 @@
-<img title="Alona Tsarova" src="https://media.licdn.com/dms/image/D4E16AQHOG5TJWU9twg/profile-displaybackgroundimage-shrink_350_1400/0/1712826852380?e=1718841600&v=beta&t=HU_-b4zbjCulv-DIiKrPZww8dv0vqs43e4CRWI6GSFo"/>
+<p align='center'><img height="200" style="border-radius: 50%;" title="Alona Tsarova" src="img/alona_tsarova.jpg"/></p>
 
 <p align='center'>
-<a href="#"><img height="30" title="LinkedIn" src=""/></a>&nbsp;&nbsp;
-<a href="#"><img height="30" title="Facebook" src=""/></a>&nbsp;&nbsp;
-<a href="#"><img height="30" title="Gmail" src=""/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/atsareva/"><img height="30" title="LinkedIn" src="img/linkedin.png"/></a>&nbsp;&nbsp;
+<a href="mailto:tsareva.as@gmail.com"><img height="30" title="Gmail" src="img/gmail.png"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/alena.tsareva.1/"><img height="30" title="Facebook" src="img/facebook.png"/></a>&nbsp;&nbsp;
 </p>
 
 Hey there 👋,
@@ -15,10 +15,10 @@ Seeking to leverage technical expertise and leadership skills to excel in an eng
 
 ### Professional Experience:
 
-<p><img align='left' height="10" title="Chantelle Lingerie GmbH" src="https://group.chantellelingerie.com/static/images/logo_new.png"/></p>
+<p><img align='left' height="10" title="Chantelle Lingerie GmbH" src="img/chantelle_logo.png"/></p>
 
 **Chantelle Lingerie GmbH**<br/>
-<sup>Jan 2023 - Mar 2024, 1 yr 3 mos </sup>
+<sup>Jan 2023 - Mar 2024 · 1 yr 3 mos </sup>
 
 Team Lead & Magento Backend Developer
 * Managing and mentoring a team of frontend and backend developers, as well as DevOps professionals, in the development of Magento 2-based ecommerce platforms.
@@ -30,3 +30,15 @@ Team Lead & Magento Backend Developer
 * Collaborated with DevOps professionals to manage infrastructure changes using Terraform, and independently made necessary adjustments to the Terraform projects when required.
 * Implemented server performance and security enhancements by coordinating with DevOps teams and independently executing nginx changes using Ansible.
 * Leading critical upgrades and feature deliveries, ensuring timely and successful project completion.
+
+<p><img align='left' height="20" title="Ciklum" src="img/ciklum_logo.svg"/></p>
+
+**Ciklum**<br/>
+<sup>an 2021 - Dec 2022 · 2 yrs</sup>
+
+Team Lead & Magento Backend Developer
+* Managing and mentoring BE devs 
+* Ecommerce development on M2 
+* Data and code migration from M1 to M2 
+* Integrating M2 with various third-party systems including OneStock, SAP, ShopRunBack, GCP, Yext, Selligent, Omnichannel, Adyen, and Glopal 
+* Code review / Support existing functionality
