@@ -1,9 +1,9 @@
 <p align='center'><img height="200" style="border-radius: 50%;" title="Alona Tsarova" src="img/alona_tsarova.jpg"/></p>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/atsareva/"><img height="30" title="LinkedIn" src="img/linkedin.png"/></a>&nbsp;&nbsp;
-<a href="mailto:tsareva.as@gmail.com"><img height="30" title="Gmail" src="img/gmail.png"/></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/alena.tsareva.1/"><img height="30" title="Facebook" src="img/facebook.png"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/atsareva/" target="_blank"><img height="30" title="LinkedIn" src="img/linkedin.png"/></a>&nbsp;&nbsp;
+<a href="mailto:tsareva.as@gmail.com" target="_blank"><img height="30" title="Gmail" src="img/gmail.png"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/alena.tsareva.1/" target="_blank"><img height="30" title="Facebook" src="img/facebook.png"/></a>&nbsp;&nbsp;
 </p>
 
 
@@ -116,3 +116,13 @@ Opinov8 <br/>
 **Magento Backend Developer**<br/>
 Webinse <br/>
 <sup>Sep 2011 - May 2015 · 3 yrs 9 mos · Full-time</sup>
+
+---
+
+Skills:
+---
+
+* Proficient in Magento development and customization 
+* Strong leadership and team management skills 
+* Excellent communication and interpersonal skills 
+* Project management and resource allocation 
