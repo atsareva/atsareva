@@ -125,4 +125,17 @@ Skills:
 * Proficient in Magento development and customization 
 * Strong leadership and team management skills 
 * Excellent communication and interpersonal skills 
-* Project management and resource allocation 
+* Project management and resource allocation
+
+---
+
+Education:
+---
+
+**Projector Institute**<br/>
+Organizational Leadership / Strategic Leadership<br/>
+<sup>Oct 2023 - Dec 2023</sup>
+
+**Zaporizhzhya National University**<br/>
+Master's degree, Computer Software Engineering<br/>
+<sup>2008 - 2013</sup>
